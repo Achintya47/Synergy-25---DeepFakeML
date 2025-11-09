@@ -249,7 +249,7 @@ P(fake) = 0.4184×P_convnext + 0.2921×P_efficient + 0.2896×P_custom
 - Gaussian Blur: 59.60%
 - JPEG: 91.80%
 
-![Adversarial Comparison](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/convnext_comparison.png)
+![Adversarial Comparison](convnext_comparison.png)
 
 **EfficientNet-B0**
 - Clean: 69.40%
@@ -257,7 +257,7 @@ P(fake) = 0.4184×P_convnext + 0.2921×P_efficient + 0.2896×P_custom
 - Gaussian Blur: 61.60%
 - JPEG: 69.40%
 
-![Adversarial Comparison](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/efficientnet_comparison.png)
+![Adversarial Comparison](efficientnet_comparison.png)
 
 **Custom ResNet-SE**
 - Clean: 68.80%
@@ -265,30 +265,30 @@ P(fake) = 0.4184×P_convnext + 0.2921×P_efficient + 0.2896×P_custom
 - Gaussian Blur: 59.00%
 - JPEG: 66.40%
 
-![Adversarial Comparison](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/custom_cnn_comparison.png)
+![Adversarial Comparison](custom_cnn_comparison.png)
 
 ### Grad-CAM Visualizations
 Shows where each model focuses attention (red = high importance, blue = low)
 
-![ConvNeXt Grad-CAM](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/convnext_gradcam.png)
+![ConvNeXt Grad-CAM](convnext_gradcam.png)
 *ConvNeXt-Tiny attention maps*
 
-![EfficientNet Grad-CAM](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/efficientnet_gradcam.png)
+![EfficientNet Grad-CAM](efficientnet_gradcam.png)
 *EfficientNet-B0 attention maps*
 
-![Custom CNN Grad-CAM](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/custom_cnn_gradcam.png)
+![Custom CNN Grad-CAM](custom_cnn_gradcam.png)
 *Custom ResNet-SE attention maps*
 
 ### Evaluation Metrics
 
-![ConvNeXt Evaluation](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/convnext_final_evaluation.png)
+![ConvNeXt Evaluation](convnext_final_evaluation.png)
 *ConvNeXt: ROC Curve (AUC), Confusion Matrix, Prediction Distribution*
 
-![EfficientNet Evaluation](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/efficientnet_final_evaluation.png)
+![EfficientNet Evaluation](efficientnet_final_evaluation.png)
 *EfficientNet: ROC Curve (AUC), Confusion Matrix, Prediction Distribution*
 
-![Custom CNN Evaluation](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/custom_cnn_final_evaluation.png)
-*Custom CNN: ROC Curve (AUC), Confusion Matrix, Prediction Distribution*
+![Custom CNN Evaluation](custom_cnn_final_evaluation.png)
+*Custom ResNet-SE: ROC Curve (AUC), Confusion Matrix, Prediction Distribution*
 
 ---
 
@@ -484,8 +484,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 **Your Name**
-- GitHub: [@Achintya47](https://github.com/Achintya47)
-- Email: sharmaachintya47@gmail.com
+- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: your.email@example.com
 
 ---
 
@@ -502,8 +502,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration:
 - Open an issue on GitHub
-- Email: sharmaachintya47@gmail.com
-- LinkedIn: [Achintya Sharma](https://linkedin.com/in/achintyasharma47)
+- Email: your.email@example.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -523,4 +523,4 @@ For questions or collaboration:
 
 ---
 
-Last Updated: November 2025
+Last Updated: December 2024
