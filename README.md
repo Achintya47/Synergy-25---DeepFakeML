@@ -270,7 +270,7 @@ P(fake) = 0.4184×P_convnext + 0.2921×P_efficient + 0.2896×P_custom
 ### Grad-CAM Visualizations
 Shows where each model focuses attention (red = high importance, blue = low)
 
-![ConvNeXt Grad-CAM](convnext_gradcam.png)
+![ConvNeXt Grad-CAM](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/convnext_gradcam.png)
 *ConvNeXt-Tiny attention maps*
 
 ![EfficientNet Grad-CAM](efficientnet_gradcam.png)
