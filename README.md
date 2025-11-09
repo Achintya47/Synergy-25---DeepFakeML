@@ -484,8 +484,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Achintya47](https://github.com/Achintya47)
+- Email: sharmaachintya47@gmail.com
 
 ---
 
@@ -502,8 +502,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration:
 - Open an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: sharmaachintya47@gmail.com
+- LinkedIn: [Achintya Sharma](https://linkedin.com/in/achintyasharma47)
 
 ---
 
@@ -523,4 +523,4 @@ For questions or collaboration:
 
 ---
 
-Last Updated: December 2024
+Last Updated: November 2025
