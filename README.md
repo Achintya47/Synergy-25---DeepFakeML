@@ -288,7 +288,7 @@ Shows where each model focuses attention (red = high importance, blue = low)
 *EfficientNet: ROC Curve (AUC), Confusion Matrix, Prediction Distribution*
 
 ![Custom CNN Evaluation](https://github.com/Achintya47/Synergy-25---DeepFakeML/blob/main/visualizations/custom_cnn_final_evaluation.png)
-*Custom ResNet-SE: ROC Curve (AUC), Confusion Matrix, Prediction Distribution*
+*Custom CNN: ROC Curve (AUC), Confusion Matrix, Prediction Distribution*
 
 ---
 
